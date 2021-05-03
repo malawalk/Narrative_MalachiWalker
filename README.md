@@ -2,7 +2,7 @@
 
 Malachi Walker 
 Morgan Benton
-Programming and Problem Solving 225
+Programming and Problem Solving- ISAT 252
 May 3rd, 2021
 Semester Experience
 	To begin I’d like to say that, looking back, I was interested in only a couple of things coming into this class. Those were: getting a good grade in the class and finding out if programming is really as cool as I was expecting it to be. While one of those goals still remains to be seen, as of the time writing this, I can safely say for sure, is that what I got out of taking this class, is that programming just isn’t for me. When I was a freshman in high school I was just introduced into the real guts of computers and while that interested me at the time, high school freshman me and college freshman me are pretty much two separate people. In this narrative, I will walk through my spring semester and try to answer some of those questions. 
